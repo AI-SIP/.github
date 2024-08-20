@@ -1,5 +1,3 @@
-<img src = "https://github.com/user-attachments/assets/039d262c-064f-4c4d-8b77-a8ef89d6ebe6"  width = "500" height = "500"/>
-
 # 손쉽게 작성하는 나만의 진정한 오답노트, OnO
 
 ### *“ 내 틀린 문제, 이젠 놓치지 않을 거예요 “*
@@ -19,36 +17,38 @@
 
 많이들 다짐하지만 오답노트 작성은 만만치 않죠.
 
-🤔 문제랑 출처를 옮겨적기가 시간이 오래걸려요.
+> 🤔 문제랑 출처를 옮겨적기가 시간이 오래걸려요.
 
-🤔 들고 다니기 귀찮고 무거워요.
+> 🤔 들고 다니기 귀찮고 무거워요.
 
-🤔 저의 오답분석이 맞는지 모르겠어요.
+> 🤔 저의 오답분석이 맞는지 모르겠어요.
 
-🤔 제 글씨가 마음에 안들어요.
+> 🤔 제 글씨가 마음에 안들어요.
 
-🤔 오답노트에서 원하는 복습문제를 찾기 번거로워요.
+> 🤔 오답노트에서 원하는 복습문제를 찾기 번거로워요.
 
-🤔 다시 풀기 위해 책을 또 구매해요.
+> 🤔 다시 풀기 위해 책을 또 구매해요.
+
+<br>
 
 위 고민들 중 2가지 이상 해당된다면,
 
-<br><br>
+<br>
 
 ### 이젠 OnO에서 진정한 오답노트를 경험하세요
 
-✅ `손쉬운 찰칵`만으로 뚝딱! 
+> ✅ `손쉬운 찰칵`만으로 뚝딱! 
       문제를 직접 옮겨적던 단순노동은 이제 그만
 
-✅ 휴대폰과 태블릿 연동으로 `언제 어디서든`
+> ✅ 휴대폰과 태블릿 연동으로 `언제 어디서든`
 
-✅ 단순 문제풀이를 넘어 `오답분석`까지 문제에서 얻어가는 개념! 
+> ✅ 단순 문제풀이를 넘어 `오답분석`까지 문제에서 얻어가는 개념! 
 
-✅ 다양한 폰트와 테마로 꾸미기
+> ✅ 다양한 폰트와 테마로 꾸미기
 
-✅ 나만의 태그와 폴더 분류로 원하는 문제를 쉽게 발견
+> ✅ 나만의 태그와 폴더 분류로 원하는 문제를 쉽게 발견
 
-✅ AI가 문제 속 `내 손글씨를 자동으로 슥- 지워줘서`
+> ✅ AI가 문제 속 `내 손글씨를 자동으로 슥- 지워줘서`
      복습할 때 ‘풀이를 아는 것 같은 착각’을 방지
 
 <br><br>
@@ -59,38 +59,36 @@
 
 ### 1. 소셜로그인으로 빠른 회원가입
 
-회원가입의 불편함을 없애고, 소셜로그인을 통해 간편하게 가입하며 이후 자동로그인 됩니다.
+-  회원가입의 불편함을 없애고, 소셜로그인을 통해 간편하게 가입하며 이후 자동로그인 됩니다.
 
-<img src = "https://github.com/user-attachments/assets/05fe5b03-0191-4c16-9694-3a9846fdfe64"  height = "500"/> <br>
+-
+  <img src = "https://github.com/user-attachments/assets/05fe5b03-0191-4c16-9694-3a9846fdfe64"  height = "500"/> <br>
 
-<img src = "https://github.com/user-attachments/assets/26e3dc86-af8d-41bf-b51e-c3d0859ddc35"  height = "500"/> <br>
+  <img src = "https://github.com/user-attachments/assets/26e3dc86-af8d-41bf-b51e-c3d0859ddc35"  height = "500"/> <br>
 
 <br>
 
 ### 2. 오답 등록
 
-📍 오답등록을 위해 ** 필수로 기입 **하는 항목들입니다.
+**📍 오답등록을 위해 필수로 기입 하는 항목들입니다.**
 
-- `등록 일자` 및 `문제 정보` 를 기입
+1. `등록 일자` 및 `문제 정보` 를 기입
+-   
+  <img src = "https://github.com/user-attachments/assets/e3384ada-d63a-4d36-b23e-fc1785069fd1"  height = "500"/> <br>
 
-<img src = "https://github.com/user-attachments/assets/e3384ada-d63a-4d36-b23e-fc1785069fd1"  height = "500"/> <br>
-
-<img src = "https://github.com/user-attachments/assets/a865aa37-b033-4e5b-89e3-947fd3c1090e"  height = "500"/> <br>
+  <img src = "https://github.com/user-attachments/assets/a865aa37-b033-4e5b-89e3-947fd3c1090e"  height = "500"/> <br>
 
 <br>
 
-**오답 문제 등록**
-1. 오답 문제로 등록하고자 하는 `문제`를 촬영 혹은 갤러리에서 선택
-<br>
-<img src = "https://github.com/user-attachments/assets/cdfc5f3f-c4a8-449a-9fe9-454b3fad8127"  height = "500"/> <br><br>
 
-2. 이미지에서 원하는 부분만 잘라주세요!
-<br>
-<img src = "https://github.com/user-attachments/assets/b5faef8f-ddc5-4c0b-a81d-8be2c5eadfb0"  height = "500"/> <br><br>
+2. 오답 문제로 등록하고자 하는 `문제`를 촬영 혹은 갤러리에서 선택
+  - <img src = "https://github.com/user-attachments/assets/cdfc5f3f-c4a8-449a-9fe9-454b3fad8127"  height = "500"/> <br><br>
 
-3. 이미지가 등록됩니다!
-<br>
-<img src = "https://github.com/user-attachments/assets/fc42a01e-a6b7-4647-8280-eef588751fc1"  height = "500"/> <br><br>
+3. 이미지에서 원하는 부분만 잘라주세요!
+  - <img src = "https://github.com/user-attachments/assets/b5faef8f-ddc5-4c0b-a81d-8be2c5eadfb0"  height = "500"/> <br><br>
+
+4. 이미지가 등록됩니다!
+  - <img src = "https://github.com/user-attachments/assets/fc42a01e-a6b7-4647-8280-eef588751fc1"  height = "500"/> <br><br>
 
 - **해설 이미지 등록(선택)**
     - 해설 이미지는 정답지의 문제 해설을 의미해요!
@@ -106,13 +104,12 @@
  <br><br>
 
 ### 다음과 같이 입력을 완료한 후에, 화면 하단의 등록 완료 버튼을 눌러주세요!
-<img src = "https://github.com/user-attachments/assets/99d94db6-6dfd-4f61-a1bc-4bf7a69cf933"  height = "500"/> <br>
-
-<img src = "https://github.com/user-attachments/assets/d4cb74a0-0e75-48e4-b682-8edd4664731a"  height = "500"/> <br>
+- <img src = "https://github.com/user-attachments/assets/99d94db6-6dfd-4f61-a1bc-4bf7a69cf933"  height = "500"/> <br>
+- <img src = "https://github.com/user-attachments/assets/d4cb74a0-0e75-48e4-b682-8edd4664731a"  height = "500"/> <br>
 
 
 ### 다음과 같이 안내문구가 뜨면서 성공적으로 문제가 저장됩니다!
-<img src = "https://github.com/user-attachments/assets/709fea25-4a4a-44e4-813a-d0bc2232a69d"  height = "500"/> <br><br>
+  - <img src = "https://github.com/user-attachments/assets/709fea25-4a4a-44e4-813a-d0bc2232a69d"  height = "500"/> <br><br>
 
 
 📍 아래는 선택사항이며, **오답 통계 및 오답 분석** 시 더 좋은 결과를 내는 데 활용됩니다. 
@@ -128,39 +125,37 @@
 
 ### 3. 등록된 오답 복습
 
-**문제 찾기**
+**1. 문제 찾기**
     
-문제가 위치한 폴더로 이동하거나, 태그 기준(업데이트 예정)으로 필터링하여 오답 문제에 접근합니다.
+- 문제가 위치한 폴더로 이동하거나, 태그 기준(업데이트 예정)으로 필터링하여 오답 문제에 접근합니다.
     
-또한, 정렬 기준을 통해 원하는 기준으로 문제를 탐색할 수 있습니다.
+- 또한, 정렬 기준을 통해 원하는 기준으로 문제를 탐색할 수 있습니다.
     
-<img src = "https://github.com/user-attachments/assets/2516bba1-7c8e-4707-9180-aa5a9a010307"  height = "500"/> <br><br>
+  <img src = "https://github.com/user-attachments/assets/2516bba1-7c8e-4707-9180-aa5a9a010307"  height = "500"/> <br><br>
 
-<img src = "https://github.com/user-attachments/assets/ce6051d6-aa6a-4416-b748-fc884e199523"  height = "500"/> <br><br>
+  <img src = "https://github.com/user-attachments/assets/ce6051d6-aa6a-4416-b748-fc884e199523"  height = "500"/> <br><br>
 
 
-**문제 복습**
+**2. 문제 복습**
     
-`손필기가 지워진 문제 이미지`가 제시되어 새로운 문제처럼 문제를 풀 수 있습니다.
+- `손필기가 지워진 문제 이미지`가 제시되어 새로운 문제처럼 문제를 풀 수 있습니다.
     
-이전, 다음 문제 버튼을 통해 폴더 내의 다른 문제로 이동할 수 있습니다.
+- 이전, 다음 문제 버튼을 통해 폴더 내의 다른 문제로 이동할 수 있습니다.
     
-<img src = "https://github.com/user-attachments/assets/7128d747-a6cc-4ca6-a472-4c46622338d9"  height = "500"/> <br><br>
+  <img src = "https://github.com/user-attachments/assets/7128d747-a6cc-4ca6-a472-4c46622338d9"  height = "500"/> <br><br>
 
-<img src = "https://github.com/user-attachments/assets/1fd2ff75-0c31-4cfd-b924-bb0ff9d39293"  height = "500"/> <br><br>
+  <img src = "https://github.com/user-attachments/assets/1fd2ff75-0c31-4cfd-b924-bb0ff9d39293"  height = "500"/> <br><br>
 
 
-**힌트 열람**
+**3. 힌트 열람**
     
-`손필기가 있는 문제` , `나의 풀이`, `정답 해설지`를 확인 가능합니다.
+- `손필기가 있는 문제` , `나의 풀이`, `정답 해설지`를 확인 가능합니다.
     
-<br><br>
+  <img src = "https://github.com/user-attachments/assets/b9bb776d-4f7c-43c9-be27-b9e2426842b7"  height = "500"/> <br><br>
 
-<img src = "https://github.com/user-attachments/assets/b9bb776d-4f7c-43c9-be27-b9e2426842b7"  height = "500"/> <br><br>
+  <img src = "https://github.com/user-attachments/assets/10de54de-4a86-481e-a5bf-5cc966050629"  height = "500"/> <br><br>
 
-<img src = "https://github.com/user-attachments/assets/10de54de-4a86-481e-a5bf-5cc966050629"  height = "500"/> <br><br>
-
-<img src = "https://github.com/user-attachments/assets/546bce25-e9b6-4f2b-859c-b62d70bf6087"  height = "500"/> <br><br>
+  <img src = "https://github.com/user-attachments/assets/546bce25-e9b6-4f2b-859c-b62d70bf6087"  height = "500"/> <br><br>
 
 
 - **채점 기능(업데이트 예정)**
@@ -170,7 +165,6 @@
 <br><br>
 
 ### 기타 기능
-<br>
 
 - **테마 변경 기능**
     
@@ -178,6 +172,7 @@
     
   - 24개의 다양한 테마를 경험해보세요!
 
+  
   <img src = "https://github.com/user-attachments/assets/aeb0e824-fc89-456c-9c0e-c570f2a9a2ef"  height = "400"/> <br><br>
 
 <br><br>
