@@ -41,6 +41,7 @@
 
 | Date | Updates | Content |
 | --- | --- | --- |
+| 2026/1/29 | V3.1.0 업데이트 | - 캐릭터 성장 기능 도입 |
 | 2026/1/22 | V3.0.0 업데이트 | - 레벨 제도 도입 <br> - 복습노트 알림 기능 도입 <br> - 오답노트 이미지 등록 편의성 개선|
 | 2026/1/22 | **✨ 서비스 재개 ✨** | **OnO가 새롭게 개선되어 돌아왔어요!**|
 | 2024/12/4 | **‼️ 서비스 중지 ‼️** | **개선된 OnO로 돌아오기 위해 잠시 서비스를 중단합니다!**|
@@ -141,22 +142,22 @@
 <br>
 <br>
 
+
 |기능|화면1|화면2|화면3|화면4|
 |---|---|---|---|---|
 |소셜로그인|![image](https://github.com/user-attachments/assets/2df8005f-6691-4ffa-96e2-bf441034013e)|![image](https://github.com/user-attachments/assets/b3168626-7b20-4cc1-b722-6df73c99e677)|
-|오답작성|<img width="220" alt="image" src="https://github.com/user-attachments/assets/c96e9e3c-082d-4e75-84e4-c57e593ee2ca"/>|
+|오답작성|<img width="220" alt="image" src="https://github.com/user-attachments/assets/529186d7-b018-47e9-9eea-c5068c88276f"/>| <img width="220" alt="image" src="https://github.com/user-attachments/assets/7b21c43c-fd8f-422c-8cdf-d93fe65af950"/>|
 |오답관리|![image](https://github.com/user-attachments/assets/b012937e-b598-4982-9ad0-c0d9c8ca5b67)|![image](https://github.com/user-attachments/assets/eef18a4c-4685-4ffc-8ed1-35c03dabe271)|
-|오답 복습|<img width="220" alt="image" src="https://github.com/user-attachments/assets/4ae0788d-4c85-4c51-ba3d-2f71f870988a" />|<img width="220" alt="image" src="https://github.com/user-attachments/assets/fad3ff20-2699-4f40-90cd-a1807cdf6e48" />|<img width="220" alt="image" src="https://github.com/user-attachments/assets/2c68f74d-04a7-4630-83bc-d88bce20affd" />|<img width="220" alt="image" src="https://github.com/user-attachments/assets/1a6ce269-e040-4106-8a54-269c21bebbf2" />|
 |복습리스트 생성|![image](https://github.com/user-attachments/assets/62ee1f8a-b944-4ef5-81c3-9f49770d1399)|![image](https://github.com/user-attachments/assets/2f65e445-4116-4b29-8cd0-61987a3f631a)|<img width="220" alt="image" src="https://github.com/user-attachments/assets/be51edd9-c706-41b3-96cd-6c8a9065c2c7" />|
 |복습리스트 실행|![image](https://github.com/user-attachments/assets/118c3cf2-c137-4da5-9492-60dfe393345b)|![image](https://github.com/user-attachments/assets/408c7e4a-9743-4dcf-91a9-3a204e619e28)|![image](https://github.com/user-attachments/assets/ae39099e-cc90-4cfc-bf00-912ca0abfaf4)|![image](https://github.com/user-attachments/assets/05166b86-159f-4464-ab09-5854c433b3d4)|
-
+|오답 복습|<img width="220" alt="image" src="https://github.com/user-attachments/assets/4ae0788d-4c85-4c51-ba3d-2f71f870988a" />|<img width="220" alt="image" src="https://github.com/user-attachments/assets/fad3ff20-2699-4f40-90cd-a1807cdf6e48" />|<img width="220" alt="image" src="https://github.com/user-attachments/assets/2c68f74d-04a7-4630-83bc-d88bce20affd" />|<img width="220" alt="image" src="https://github.com/user-attachments/assets/1a6ce269-e040-4106-8a54-269c21bebbf2" />|
 <br>
 
 # 😮 기타 기능
 
 |기능|설명|화면1|화면2|
 |---|---|---|---|
-|레벨 & 테마 변경 기능|- OnO는 색상 변경을 통해 다양한 테마를 사용할 수 있습니다! <br> - 오답노트를 작성해 레벨을 달성하고, 24개의 다양한 테마를 잠금 해제해보세요!|<img width = "220" src = "https://github.com/user-attachments/assets/eab469fe-1dad-4e25-ae60-a92fc0879422"/>|<img width = "220" src = "https://github.com/user-attachments/assets/160ace4c-875e-434f-9366-1c8a70b1dcf2"/>|
+|캐릭터 육성 & 테마 변경 기능|- 열심히 복습을 하고, 나만의 캐릭터를 성장시켜요! <br> - 레벨이 오르면 다양한 색상 테마를 사용할 수 있습니다! <br> - 오답노트를 작성해 레벨을 달성하고, 24개의 다양한 테마를 잠금 해제해보세요!|<img width = "220" src ="https://github.com/user-attachments/assets/29624628-4db9-4a8b-b85b-7cc24839d806"/>|<img width = "220" src = "https://github.com/user-attachments/assets/160ace4c-875e-434f-9366-1c8a70b1dcf2"/>|
 
 <br>
 
